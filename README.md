@@ -1,7 +1,9 @@
 
 # DIWAKAR S
-### Wintel, VMware, and Cloud Engineer
-📍 Chennai, India | [LinkedIn](https://linkedin.com/in/diwakar-subramanian-74ab41112) | ✉️ diwakarsubramanian.3@gmail.com
+### Wintel |VMware | Cloud Engineer
+📍 Chennai, India | [LinkedIn](https://linkedin.com/in/diwakar-subramanian-74ab41112) | 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/diwakarsubramanian3)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:diwakarsubramanian.3@gmail.com)
 
 ---
 
@@ -30,7 +32,7 @@ with 1 year of customer support experience.Proven track record in designing and 
 ---
 
 ## 🏅 Certifications
-*Click the links below to view my credentials.*
+*Click the links below to view my Certificates.*
 
 * [cite_start]**Kubernetes:** [Certified Kubernetes Administrator (CKA)](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/diwakar-subramanian-CKA-certificate.pdf) [cite: 51]
 * [cite_start]**AWS:** [Certified Solutions Architect – Associate](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf) [cite: 52]
