@@ -2,7 +2,7 @@
 # DIWAKAR S
 ### Wintel |VMware | Cloud Engineer
 📍 Chennai, India | <img width="17" height="14" alt="image" src="https://github.com/user-attachments/assets/2bb9240d-bbe0-4ab2-ab8f-f0682d1f056e" />
- 81221 88118 | [LinkedIn](https://linkedin.com/in/diwakar-subramanian-74ab41112) | 
+ +91 81221 88118 | [LinkedIn](https://linkedin.com/in/diwakar-subramanian-74ab41112) | 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/diwakarsubramanian3) |
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:diwakarsubramanian.3@gmail.com)
 
@@ -35,7 +35,8 @@ with 1 year of customer support experience.Proven track record in designing and 
 ## 🏅 Certifications
 *Click the links below to view my Certificates.*
 
-* **Kubernetes:** [Certified Kubernetes Administrator (CKA)](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/diwakar-subramanian-CKA-certificate.pdf) 
+* **Kubernetes:** [Certified Kubernetes Administrator (CKA)](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/diwakar-subramanian-CKA-certificate.pdf)
+              ** [Fundamentals of Docker & Kubernetes](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/diwakar-subramanian-CKA-certificate.pdf) 
 * **AWS:** [Certified Solutions Architect – Associate](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 * **Azure:** [AZ-104: Microsoft Azure Administrator](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/AZ%20104%20Azure%20Administrator%20certficate_new.pdf) 
 * **VMware:** [VMware Certified Professional 5- DCV](./assets/VMware_Cert.pdf) 
