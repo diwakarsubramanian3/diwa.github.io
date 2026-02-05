@@ -78,5 +78,5 @@ and execute firmware upgrades for blades and Fabric Interconnects.
 ---
 
 ## 🎓 Education
-* **MBA in Operations Management** 
+* **MBA in Operations Management(Part-Time)** 
 * **B.E. in Electronics & Communication Engineering** 
