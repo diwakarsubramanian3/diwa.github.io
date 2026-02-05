@@ -1,5 +1,5 @@
-<h1 align="center">
-DIWAKAR S
+
+# DIWAKAR S
 ### Wintel, VMware, and Cloud Engineer
 📍 Chennai, India | [LinkedIn](https://linkedin.com/in/diwakar-subramanian-74ab41112) | ✉️ diwakarsubramanian.3@gmail.com
 
