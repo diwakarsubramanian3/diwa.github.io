@@ -44,32 +44,32 @@ with 1 year of customer support experience.Proven track record in designing and 
 
 ## 💼 Experience Highlights
 ### **AstraZeneca India Pvt Ltd** | [cite_start]*Wintel/VMware and Cloud Engineer* [cite: 16, 17] | April 2020 - Present.
-• Granted server access to users within the environment.
-• Handled priority incidents and tasks. Also involved in providing RCA for major issues.
-• Established dedicated and shared desktops for user access.
-• Updated firmware and drivers on Cisco blade and rack servers in Cisco UCSM and Intersight.
-• Upgraded the FI and Intersight firmware.
-• Orchestrate VMware vCenter 7.0+ environments, including scratch installations, cluster configurations, and
+* Granted server access to users within the environment.
+* Handled priority incidents and tasks. Also involved in providing RCA for major issues.
+* Established dedicated and shared desktops for user access.
+* Updated firmware and drivers on Cisco blade and rack servers in Cisco UCSM and Intersight.
+* Upgraded the FI and Intersight firmware.
+* Orchestrate VMware vCenter 7.0+ environments, including scratch installations, cluster configurations, and
 VDS switch management.
-• Manage Cisco UCS infrastructure using UCSM and Intersight; create VLANs, pools, templates, server profiles,
+* Manage Cisco UCS infrastructure using UCSM and Intersight; create VLANs, pools, templates, server profiles,
 and execute firmware upgrades for blades and Fabric Interconnects.
-• Lead Proof of Concept (POC) initiatives for Windows Server 2022 and VMware vCenter 8.0.
-• Configured HA, DRS, and Storage DRS clusters to optimise load balancing and fault tolerance.
-• Configured ESXi hosts and clusters, including host additions to clusters.
-• Administrate Azure cloud resources including AD users, RBAC roles, virtual networks, and storage management.
-• Maintain AWS EC2 instances, S3 buckets, and resource scheduling for optimized cloud computing.
-• Developed automation scripts for VM and Shell builds to streamline provisioning.
+* Lead Proof of Concept (POC) initiatives for Windows Server 2022 and VMware vCenter 8.0.
+* Configured HA, DRS, and Storage DRS clusters to optimise load balancing and fault tolerance.
+* Configured ESXi hosts and clusters, including host additions to clusters.
+* Administrate Azure cloud resources including AD users, RBAC roles, virtual networks, and storage management.
+* Maintain AWS EC2 instances, S3 buckets, and resource scheduling for optimized cloud computing.
+* Developed automation scripts for VM and Shell builds to streamline provisioning.
 
 ### **HCL Technologies** | [cite_start]*Senior Analyst* [cite: 33, 34] | September 2016 – April 2020.
-• Managed Windows servers, Active Directory, VMware ESXi, and vCenter upgrades.
-• Coordinated Disaster Recovery events and major datacenter operations.
-• Delivered VMware administration including patching, VM deployment, snapshots, and cluster configuration.
-• Implemented Disaster Recovery (DR) replication using Zerto and coordinated major datacenter operations.
-• Utilized PowerShell for infrastructure automation and adhered to ITIL-driven process standards.
+* Managed Windows servers, Active Directory, VMware ESXi, and vCenter upgrades.
+* Coordinated Disaster Recovery events and major datacenter operations.
+* Delivered VMware administration including patching, VM deployment, snapshots, and cluster configuration.
+* Implemented Disaster Recovery (DR) replication using Zerto and coordinated major datacenter operations.
+* Utilized PowerShell for infrastructure automation and adhered to ITIL-driven process standards.
 
 ### **Sutherland Global Services** | [cite_start]*Technical Analyst (Microsoft Corporation Project)* [cite: 33, 34] | August 2015 – September 2016.
-• Provided L2 technical assistance for Windows 7/10 and Microsoft Office environments.
-• Assisted end-users with OS installation, network connectivity troubleshooting, and printer configurations.
+* Provided L2 technical assistance for Windows 7/10 and Microsoft Office environments.
+* Assisted end-users with OS installation, network connectivity troubleshooting, and printer configurations.
 
 ---
 
