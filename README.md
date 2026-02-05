@@ -15,7 +15,7 @@ with 1 year of customer support experience.Proven track record in designing and 
 ---  
 
 ## 🛠 Technical Skills
-| Category | Skills |
+| *Category | *Skills |
 | :--- | :--- |
 *| **Virtualization** | VMware 7.0/8.0, ESXi, vCenter, VDS Switch Management |
 *| **Cloud & OS** | Microsoft Azure (AZ-104), AWS (EC2/S3), Windows Server 2003-2022 |
