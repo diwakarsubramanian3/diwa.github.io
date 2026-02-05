@@ -36,12 +36,12 @@ with 1 year of customer support experience.Proven track record in designing and 
 *Click the links below to view my Certificates.*
 
 * **Kubernetes:** [Certified Kubernetes Administrator (CKA)](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/diwakar-subramanian-CKA-certificate.pdf)
-              ** [Fundamentals of Docker & Kubernetes](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/diwakar-subramanian-CKA-certificate.pdf) 
+* ** [Fundamentals of Docker & Kubernetes](https://github.com/diwakarsubramanian3/diwa.github.io/blob/a5c1e390bde6a39b10037a587157807579aba92d/Fundamentals%20of%20Docker%20%26%20Kubernetes.jpg)
 * **AWS:** [Certified Solutions Architect – Associate](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 * **Azure:** [AZ-104: Microsoft Azure Administrator](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/AZ%20104%20Azure%20Administrator%20certficate_new.pdf) 
 * **VMware:** [VMware Certified Professional 5- DCV](./assets/VMware_Cert.pdf) 
 * **Agile:** [Professional Scrum Master (PSM I)](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/Diwakar%20Professional%20Scrum%20Master%20I%20Certificate.pdf) 
-                         [Certified Scrum Master (PSM I)](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/Scrum%20Master.pdf)
+* ** [Certified Scrum Master (PSM I)](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/Scrum%20Master.pdf)
 
 
 ---
