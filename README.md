@@ -1,8 +1,8 @@
 
 # DIWAKAR S
 ### Wintel |VMware | Cloud Engineer
-📍 Chennai, India | [LinkedIn](https://linkedin.com/in/diwakar-subramanian-74ab41112) | 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/diwakarsubramanian3)
+📍 Chennai, India | <i class="fas fa-phone"></i> 8122188118 | [LinkedIn](https://linkedin.com/in/diwakar-subramanian-74ab41112) | 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/diwakarsubramanian3) |
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:diwakarsubramanian.3@gmail.com)
 
 ---
