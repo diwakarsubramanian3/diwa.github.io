@@ -25,7 +25,6 @@ with 1 year of customer support experience.Proven track record in designing and 
 > **Note:** View or download my full professional history here.
 
 * [👁️ View My Resume (PDF)](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/Diwakar%20Resume.pdf)
-* [📥 Download My Resume](https://github.com/diwakarsubramanian3/diwa.github.io/blob/0f739517fa61e78460e107741c9ea5d6e499b610/Diwakar%20Resume.pdf?download=)
 
 ---
 
