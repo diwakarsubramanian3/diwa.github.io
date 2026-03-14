@@ -62,6 +62,9 @@ and execute firmware upgrades for blades and Fabric Interconnects.
 * Administrate Azure cloud resources including AD users, RBAC roles, virtual networks, and storage management.
 * Maintain AWS EC2 instances, S3 buckets, and resource scheduling for optimized cloud computing.
 * Developed automation scripts for VM and Shell builds to streamline provisioning.
+* Build VM's using AWS and terraform.
+* Experience in working on CI/CD pipeline using Jenkins and Ansible.
+* Working knowledge in Python and powershell.
 
 ### **HCL Technologies** | *Senior Analyst*  | September 2016 – April 2020.
 * Managed Windows servers, Active Directory, VMware ESXi, and vCenter upgrades.
