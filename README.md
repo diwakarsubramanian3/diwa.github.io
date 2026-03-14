@@ -18,6 +18,7 @@ with 1 year of customer support experience.Proven track record in designing and 
 * **Virtualization** -VMware 7.0/8.0, ESXi, vCenter, VDS Switch Management 
 * **Cloud & OS** -Microsoft Azure (AZ-104), AWS (EC2/S3), Windows Server 2003-2022
 * **DevOps & Containers** -Kubernetes (CKA), Docker, PowerShell Automation
+* **Coding** -Python, Terraform, Ansible and CI/CD pipeline
 * **Infrastructure** -Cisco UCSM, Intersight, Zerto DR, Active Directory
 * **Methodologies** -Scrum Master (PSM I, CSM), ITIL Foundation v3.0
 
